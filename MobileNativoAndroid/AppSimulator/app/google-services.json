@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281321250814",
+    "project_id": "simulador-nba",
+    "storage_bucket": "simulador-nba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281321250814:android:c8dbea70f8ee4332b9eaaf",
+        "android_client_info": {
+          "package_name": "com.example.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281321250814-78qn63vhbodc177kvn6stqef32u9ett4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAcXEZdfEh4Och0pyKmlyd1qwBRlNTdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281321250814-78qn63vhbodc177kvn6stqef32u9ett4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

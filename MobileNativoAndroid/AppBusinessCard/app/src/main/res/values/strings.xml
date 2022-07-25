@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBusinessCard</string>
+    <string name="business_card">Business Card</string>
+    <string name="text_button">New</string>
+    <string name="label_show_success">label_show_success</string>
+    <string name="label_share">labelShare</string>
+</resources>

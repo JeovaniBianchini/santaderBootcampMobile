@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button">Novo</string>
+    <string name="app_name">Aplicativo de cartão de visita</string>
+    <string name="business_card">Cartão de Visita</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso</string>
+    <string name="label_share">labelShare</string>
+</resources>
