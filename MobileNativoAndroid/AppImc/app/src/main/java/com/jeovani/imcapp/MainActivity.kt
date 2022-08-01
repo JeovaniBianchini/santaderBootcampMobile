@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
 
         if(weight != null && height != null){
             val imc = weight / (height * height)
-            binding.tvTitle.text = "Seu imc é: \n %.2f".format(imc)
+            binding.tvTitle.text = "Seu IMC é: \n %.2f".format(imc)
         }
     }
 
