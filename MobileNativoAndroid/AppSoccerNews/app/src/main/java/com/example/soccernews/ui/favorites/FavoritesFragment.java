@@ -38,8 +38,8 @@ public class FavoritesFragment extends Fragment {
         MainActivity activity = (MainActivity) getActivity();
         if (activity != null) {
             List<News> favoriteNews = activity.getDb().newsDao().loadFavoriteNews();
-            binding.rvNews.setLayoutManager(new LinearLayoutManager(getContext()));
-            binding.rvNews.setAdapter(new NewsAdapter(favoriteNews, updateNews -> {
+            binding.srlNews.setLayoutManager(new LinearLayoutManager(getContext()));
+            binding.srlNews.setAdapter(new NewsAdapter(favoriteNews, updateNews -> {
                 activity.getDb().newsDao().save(updateNews);
                 loadFavoriteNews();
             }));
